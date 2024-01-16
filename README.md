@@ -30,7 +30,7 @@ ${contributing}
 ## Questions
 - Email: [hillmatt58@gmail.com]()
 - GitHub: [crunchwrapdestroyer]()
-- [recording-of-working-application]()
+- [recording-of-working-application](./assets/demo.gif.mp4)
 ## Screenshots
 ${screenshots}
 ![screenshot1](assets\buffgenie.png)
